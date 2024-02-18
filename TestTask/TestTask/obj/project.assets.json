@@ -3109,11 +3109,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Загрузки\\TestTask (1)\\TestTask\\TestTask\\TestTask.csproj",
+      "projectUniqueName": "D:\\Загрузки\\TestTask Ifortex\\TestTask\\TestTask\\TestTask.csproj",
       "projectName": "TestTask",
-      "projectPath": "D:\\Загрузки\\TestTask (1)\\TestTask\\TestTask\\TestTask.csproj",
+      "projectPath": "D:\\Загрузки\\TestTask Ifortex\\TestTask\\TestTask\\TestTask.csproj",
       "packagesPath": "C:\\Users\\VadimkaNevidimka\\.nuget\\packages\\",
-      "outputPath": "D:\\Загрузки\\TestTask (1)\\TestTask\\TestTask\\obj\\",
+      "outputPath": "D:\\Загрузки\\TestTask Ifortex\\TestTask\\TestTask\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\VadimkaNevidimka\\AppData\\Roaming\\NuGet\\NuGet.Config",

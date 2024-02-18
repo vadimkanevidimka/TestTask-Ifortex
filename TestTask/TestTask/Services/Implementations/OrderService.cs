@@ -6,7 +6,7 @@ using TestTask.Services.Interfaces;
 
 namespace TestTask.Services.Implementations
 {
-    public class OrderService :BaseDBService, IOrderService
+    public class OrderService : BaseDBService, IOrderService //Added implementation for IOrderService, and add Base class for all DataBase services
     {
         public Task<Order> GetOrder()
         {
